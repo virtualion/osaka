@@ -1,0 +1,2 @@
+#title=Lupin
+#path=/images/Lupin.jpg

@@ -1,0 +1,3 @@
+#title=ha1
+#path=/images/ha1.png
+#url=https://www.ohara.or.jp/collection_detail/?product_id=37

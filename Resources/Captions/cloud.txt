@@ -1,0 +1,2 @@
+#title=cloud
+#path=/images/cloud.jpg
