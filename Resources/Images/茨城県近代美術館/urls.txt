@@ -1,0 +1,5 @@
+0	https://upload.wikimedia.org/wikipedia/commons/2/2a/Man%27s_Face_by_Nakamura_Tsune_%28MOMA_Ibaraki%29.jpg
+1	https://upload.wikimedia.org/wikipedia/commons/0/08/Museum_of_Modern_Art_Ibaraki.JPG
+2	https://upload.wikimedia.org/wikipedia/commons/4/48/Ruins_of_Pompeii_by_Fujishima_Takeji_%28Museum_of_Modern_Art%2C_Ibaraki%29.jpg
+3	https://upload.wikimedia.org/wikipedia/commons/f/fa/Snow_in_the_Garden_by_Kuroda_Seiki_%28MOMA_Ibaraki%29.jpg
+4	https://upload.wikimedia.org/wikipedia/commons/5/54/Yuya_by_Kimura_Buzan_%28MOMA_Ibaraki%29.jpg

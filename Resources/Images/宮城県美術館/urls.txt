@@ -1,0 +1,8 @@
+0	https://upload.wikimedia.org/wikipedia/commons/9/97/Aimitsu-1940-Bird.png
+1	https://upload.wikimedia.org/wikipedia/commons/8/8e/Before_the_Gate_of_the_Miyagi_Prefectural_Office_by_Takahashi_Yuichi.jpg
+2	https://upload.wikimedia.org/wikipedia/commons/6/62/Hyakusui-Hunting.jpg
+3	https://upload.wikimedia.org/wikipedia/commons/d/dd/MatsumotoShunsuke_Nikolai_Cathedral_ca1941.png
+4	https://upload.wikimedia.org/wikipedia/commons/c/cf/Miyagi_Museum_of_Art.JPG
+5	https://upload.wikimedia.org/wikipedia/commons/e/ed/The_miyagi_museum_of_art01s3872.jpg
+6	https://upload.wikimedia.org/wikipedia/commons/d/d5/The_miyagi_museum_of_art04s3200.jpg
+7	https://upload.wikimedia.org/wikipedia/ja/6/6e/Susumu_shingu_tokino.jpg
