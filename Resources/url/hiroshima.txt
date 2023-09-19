@@ -1,2 +1,2 @@
 #root=https://virtualion.github.io/osaka/Resources/
-#prj=osaka2
+#prj=hiroshima
