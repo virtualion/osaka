@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/osaka/Resources/
+#prj=gunmahaya
