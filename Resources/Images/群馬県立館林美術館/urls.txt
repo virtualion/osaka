@@ -1,0 +1,14 @@
+0	https://upload.wikimedia.org/wikipedia/commons/0/05/GMAT_panorama1.jpg
+1	https://upload.wikimedia.org/wikipedia/commons/6/6d/GMAT_panorama2.jpg
+2	https://upload.wikimedia.org/wikipedia/commons/5/5c/GMAT_panorama3.jpg
+3	https://upload.wikimedia.org/wikipedia/commons/4/48/GMAT_panorama4.jpg
+4	https://upload.wikimedia.org/wikipedia/commons/5/56/GMAT_panorama5.jpg
+5	https://upload.wikimedia.org/wikipedia/commons/3/3e/GMAT_panorama6.jpg
+6	https://upload.wikimedia.org/wikipedia/commons/9/99/GMAT_panorama7.jpg
+7	https://upload.wikimedia.org/wikipedia/commons/e/ef/GMAT_panoramaP1.jpg
+8	https://upload.wikimedia.org/wikipedia/commons/2/29/GunmaMuseumOfArtWholeView.jpg
+9	https://upload.wikimedia.org/wikipedia/commons/d/d8/Gunma_Museum_of_Art%2C_Tatebayashi_1.jpg
+10	https://upload.wikimedia.org/wikipedia/commons/9/90/Gunma_Museum_of_Art%2C_Tatebayashi_2.jpg
+11	https://upload.wikimedia.org/wikipedia/commons/e/e4/TatebayashiArtMuseim1.jpg
+12	https://upload.wikimedia.org/wikipedia/commons/3/36/TatebayashiArtMuseim2.jpg
+13	https://upload.wikimedia.org/wikipedia/commons/d/de/Tatebayashi_City_Sculpture_Pathway.jpg

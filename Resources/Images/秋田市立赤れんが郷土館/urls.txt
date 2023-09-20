@@ -1,0 +1,4 @@
+0	https://upload.wikimedia.org/wikipedia/commons/1/13/Akarenga-kan_Museum_in_Akita_20190707a.jpg
+1	https://upload.wikimedia.org/wikipedia/commons/f/f6/Kanto_Festival_Center.jpg
+2	https://upload.wikimedia.org/wikipedia/commons/e/e6/Old_Kaneko_Family_House.jpg
+3	https://upload.wikimedia.org/wikipedia/commons/f/f6/Tokushi_Katsuhira_Memorial_Museum_affiiliated_to_the_Akarenga-kan_Museum.jpg

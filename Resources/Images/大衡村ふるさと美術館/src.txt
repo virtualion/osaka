@@ -1,0 +1,25 @@
+@new
+::title#
+松島
+::auth#
+菅野　廉
+::cnt#
+油彩
+::desc#
+
+
+@new
+::title#
+百合の花
+::auth#
+菅野　廉
+::cnt#
+油彩
+::desc#
+
+@new
+::title#
+宮城県出身の作家、菅野廉による作品展。
+::auth#
+::cnt#
+::desc#
