@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+4	./Images/大阪市立東洋陶磁美術館/wrk_0_auth.png	0,45,79	1,0,0	0,1,0	0,0,1	33.20118	-15.1965	0.2	1	Wooden_thin	-1:-1	7
+5	./Images/大阪市立東洋陶磁美術館/wrk_0_desc.png	0,45,79	1,0,0	0,1,0	0,0,1	35.8145	-27.32399	0.2	1.5	Wooden_thin	-1:-1	8
+6	./Images/大阪市立東洋陶磁美術館/wrk_1_auth.png	0,45,79	1,0,0	0,1,0	0,0,1	-29.33043	-15.70051	0.2	1	Wooden_thin	-1:-1	9
+7	./Images/大阪市立東洋陶磁美術館/wrk_1_desc.png	0,45,79	1,0,0	0,1,0	0,0,1	-31.79522	-28.017	0.2	1.5	Wooden_thin	-1:-1	10
+8	./Images/大阪市立東洋陶磁美術館/unnamed.jpg	-48.75,45,40	0,0,1	0,1,0	-1,0,0	-1.426537	-20.20499	0.2	1	WoodenWhite	-1:-1	11
+9	./Images/大阪市立東洋陶磁美術館/画像1.png	48.75,45,40	0,0,-1	0,1,0	1,0,0	0.830326	-1.336496	0.2	4	none(caption)	-1:-1	12
+10	./Images/大阪市立東洋陶磁美術館/画像2.png	48.75,45,40	0,0,-1	0,1,0	1,0,0	1.267201	-23.19748	0.2	3	none(caption)	-1:-1	13
